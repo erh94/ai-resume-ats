@@ -77,3 +77,10 @@ Make sure your Conda environment is active (conda activate resume_ats) and that 
 Rate Limit Errors (429)
 If you hit a "Resource Exhausted" error, you are making too many requests too quickly on the Google free tier. Switch the model to gemini-2.5-flash-lite in the app sidebar, or wait 60 seconds and try again.
 
+
+#### 6. Demo
+(input.png)
+
+
+[result.png]
+
